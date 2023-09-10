@@ -1,0 +1,8 @@
+cmake-build-debug
+build-dev
+build-dist
+out
+vcpkg_installed
+.vs
+dist
+node_modules

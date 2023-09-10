@@ -1,0 +1,45 @@
+{
+  "name" : "speakly",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "962e5e39f8a25f42522f51fffc574e05a3efd26b",
+  "dependencies" : [ {
+    "name" : "curl",
+    "version>=" : "8.2.1"
+  }, {
+    "name" : "libdatachannel",
+    "version>=" : "0.18.2#2"
+  }, {
+    "name" : "libjuice",
+    "version>=" : "1.0.6"
+  }, {
+    "name" : "nlohmann-json",
+    "version>=" : "3.11.2"
+  }, {
+    "name" : "openssl",
+    "version>=" : "3.1.2#3"
+  }, {
+    "name" : "opus",
+    "version>=" : "1.4"
+  }, {
+    "name" : "plog",
+    "version>=" : "1.1.9"
+  }, {
+    "name" : "portaudio",
+    "version>=" : "19.7#5"
+  }, {
+    "name" : "usrsctp",
+    "version>=" : "0.9.5.0#1"
+  }, {
+    "name" : "vcpkg-cmake-config",
+    "version>=" : "2022-02-06#1"
+  }, {
+    "name" : "vcpkg-cmake-get-vars",
+    "version>=" : "2023-03-02"
+  }, {
+    "name" : "vcpkg-cmake",
+    "version>=" : "2023-05-04"
+  }, {
+    "name" : "zlib",
+    "version>=" : "1.3"
+  } ]
+}
