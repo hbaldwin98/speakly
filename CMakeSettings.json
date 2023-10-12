@@ -15,7 +15,7 @@
       "variables": [
         {
           "name": "VCPKG_INSTALLED_DIR",
-          "value": "C:/Users/hunte/.vcpkg-clion/vcpkg/installed",
+          "value": "C:/tools/vcpkg/installed",
           "type": "PATH"
         },
         {
@@ -25,7 +25,7 @@
         },
         {
           "name": "VCPKG_MANIFEST_MODE",
-          "value": "ON",
+          "value": "OFF",
           "type": "BOOL"
         }
       ]

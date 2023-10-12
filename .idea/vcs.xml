@@ -2,14 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src-cpp/dependencies/json" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src-cpp/dependencies/libdatachannel" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src-cpp/dependencies/libdatachannel/deps/json" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src-cpp/dependencies/libdatachannel/deps/libjuice" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src-cpp/dependencies/libdatachannel/deps/libsrtp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src-cpp/dependencies/libdatachannel/deps/plog" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src-cpp/dependencies/libdatachannel/deps/usrsctp" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src-cpp/dependencies/opus" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/src-cpp/dependencies/portaudio" vcs="Git" />
   </component>
 </project>
